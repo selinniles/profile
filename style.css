@@ -1,0 +1,33 @@
+.header .symbol {
+    float: left;
+  }
+  
+  .header .name {
+    margin-left: 10px;
+    display: inline-block;
+    padding-top: 22px;
+  }
+  hr{
+    border-top: 5px solid black;
+  }
+  .left{
+    padding-left: 10px;
+  }
+  .left .table {
+    padding-top: 15px;
+    padding-left: 15px;
+  }
+
+  .left {
+    float: left;
+  }
+  
+  .right {
+    margin-left: 60px;
+    display: inline-block;
+  }
+
+  .card:hover {
+    top: -2px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  }
